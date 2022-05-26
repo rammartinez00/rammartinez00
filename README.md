@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Rami
-
-![banner](https://i.gyazo.com/a0e09dad8b49ce87fd00b68638132cbe.gif)
+![](https://i.gyazo.com/a0e09dad8b49ce87fd00b68638132cbe.gif)
 
 My background is in healthcare informatics, recently I transitioned into software engineering through App Academy's Full Stack Software Engineering bootcamp. I enjoy taking on complex problems and working diligently to find simple solutions. 
 
