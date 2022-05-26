@@ -11,7 +11,10 @@ My background is in healthcare informatics, recently I transitioned into softwar
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rammartinez00)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rami-martinez-2931099b/)  
+[<img src='https://user-images.githubusercontent.com/40069890/170570528-c8c82162-57b1-4cd3-ac5f-6deb94401e15.png' alt='github' height='40'>](https://github.com/rammartinez00)  [<img src='https://user-images.githubusercontent.com/40069890/170567626-f344ee1f-a2a3-408b-8fb4-ab8b27d9b579.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/rami-martinez-2931099b/)  
+
+
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rammartinez00&show_icons=true)  
 
